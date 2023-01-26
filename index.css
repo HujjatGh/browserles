@@ -144,7 +144,7 @@ main {
    
 }
 
-.btn {
+.card .btn {
     background-color: black;
     color: white;
     margin: 8px auto;
@@ -241,6 +241,7 @@ header .icon {
         display: block;
         height: auto;
         padding: 5px;
+        padding: 10px;
         
     }
     footer .info{
