@@ -32,7 +32,7 @@ nav a:hover {
     color: pink;
 }
 
-.link-btn{
+header a.link-btn{
     text-decoration: none;
     border: none;
     border-bottom: 1px solid black;
