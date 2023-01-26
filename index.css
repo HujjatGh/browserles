@@ -145,11 +145,11 @@ main {
 }
 
 .card .btn {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     margin: 8px auto;
     width: 250px;
-    border-radius: 0;
+    padding: 8px 12px;
 
 }
 .btn:hover {
