@@ -50,8 +50,18 @@ main {
     margin: 0;
 }
 
+main .main-pa{
+    text-align: center;
+    margin-bottom: 20px;
+}
+main .main-pa a{
+    color: black;
+    text-decoration: none;
+    font-size: 22px;
+}
+
 .select-btn {
-    width: 40%;
+    width: 30%;
     padding: 12px 16px;
     margin:0;
     font-weight: bold;
