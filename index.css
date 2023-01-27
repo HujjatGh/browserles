@@ -162,15 +162,15 @@ main .main-pa a{
     padding: 8px 12px;
 
 }
-.card .btn:hover {
+.btn:hover {
     background-color: blue;
     color: white;
 }
-.btn-third {
+#btn-third {
     background-color: #f1f1f1;
     color: black;
 }
-.btn-third:hover {
+#btn-third:hover {
     background-color: pink;
 }
 footer {
