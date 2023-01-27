@@ -61,7 +61,7 @@ main .main-pa a{
 }
 
 .select-btn {
-    width: 30%;
+    width: 200px;
     padding: 12px 16px;
     margin:0;
     font-weight: bold;
@@ -162,7 +162,7 @@ main .main-pa a{
     padding: 8px 12px;
 
 }
-.btn:hover {
+.card .btn:hover {
     background-color: blue;
     color: white;
 }
@@ -242,7 +242,7 @@ header .icon {
     .header-nav{
         display: none;
     }
-    header > a{
+    header > button{
         display: none;
     }
     header .icon {
