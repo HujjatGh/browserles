@@ -67,7 +67,7 @@ main .main-pa a{
     font-weight: bold;
 }
 
-.black-btn {
+#black-btn {
     background-color: black;
     color: white;
 }
