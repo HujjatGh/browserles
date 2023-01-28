@@ -248,12 +248,7 @@ header .icon {
     header .icon {
         display: block;
     }
-    footer {
-        display: block;
-        height: auto;
-        padding: 5px;
-        padding: 10px;
-        
+  
     }
     footer .info{
         display: flex;
